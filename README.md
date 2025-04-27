@@ -5,4 +5,4 @@ Jamil is an explorer who is trapped in an other dimension digging up numerous of
 <br>
 Made with Unity3D Engine
 <br>
-Author - XeeShan
+Author - Zeeshan
